@@ -13,5 +13,5 @@ FreeRTOS of STM32F767.
 
 Project Infomation
 ------------------
-Project IDE: `Keil`
+Project IDE: `Keil`  
 System: `windows10 64bit`
